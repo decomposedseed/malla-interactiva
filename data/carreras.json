@@ -86,5 +86,9 @@
   {
     "Nombre": "Ingeniería en Biotecnología",
     "Link": "IBT"
+  },
+  {
+    "Nombre": "Ingeniería Civil Biomédica",
+    "Link": "ICB"
   }
 ]
